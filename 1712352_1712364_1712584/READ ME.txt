@@ -1,0 +1,22 @@
+ĐỒ ÁN - LEGO MINDSTORM NXT 2.0
+
+TÊN SẢN PHẨM: CLAMP TRUCK DDL
+
+Ngày hoàn thành: 21/12/2019
+
+Nhóm thực hiện:
+Chu Nguyên Đức - 1712352
+Bùi Chí Dũng - 1712364
+Nguyễn Công Lý - 1712584
+
+Chức năng: Xe tự hành, di chuyển từ vị trí này đến vị trí khác để
+gắp vật, và đưa vật đi đến vị trí đích được định sẵn.
+
+Tổ chức file:
+- Report.docx : File báo cáo của nhóm, bao gồm ý tưởng, chi phí và 
+quá trình thực hiện, link video demo sản phẩm, nguồn tham khảo.
+- Report.pdf : File báo cáo dưới dạng .pdf
+- ROBOT GẮP ĐỒ VẬT.pptx: file trình chiếu PPT của nhóm.
+
+Link folder bài nộp: 
+https://drive.google.com/drive/folders/1mxAFIZd5UvgTT-6XrXACxmbmIen25OH-?usp=sharing
